@@ -1,0 +1,26 @@
+Mana ramp:
+	Keep:
+		Gilded Lotus
+		Deathrite Shaman
+		Cryptolith Rite
+		Dimir Signet
+		Hedron Archive
+
+	Mana Colors:
+		Black: 
+		Blue:  
+		Green: 
+		Any:   
+
+	Discard:
+		Bloom Tender
+		Selvala, Heart of the Wilds
+		Crystalline Crawler
+
+	Maybe Pile:
+		Birds of Paradise
+		Kruphix, God of Horizons
+		Thran Dynamo
+		Awakening Zone
+
+Notes: sol ring conspicuously missing, need to look into pandas filtering
