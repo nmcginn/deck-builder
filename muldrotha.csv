@@ -249,7 +249,7 @@ Siren Stormtamer,Creature — Siren Pirate Wizard,1.0,{U},"Flying
 Skullclamp,Artifact — Equipment,1.0,{1},"Equipped creature gets +1/-1.
 Whenever equipped creature dies, draw two cards.
 Equip {1}",,,1.47
-Solemn Offering,Sorcery,3.0,{2}{W},Destroy target artifact or enchantment. You gain 4 life.,,,0.05
+Sol Ring,Artifact,1.0,{1},{T}: Add {C}{C} to your mana pool.,,,3.00
 Solemn Simulacrum,Artifact Creature — Golem,4.0,{4},"When Solemn Simulacrum enters the battlefield, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle your library.
 When Solemn Simulacrum dies, you may draw a card.",2,2,3.71
 Sorin Markov,Legendary Planeswalker — Sorin,6.0,{3}{B}{B}{B},"+2: Sorin Markov deals 2 damage to target creature or player and you gain 2 life.

@@ -29,6 +29,7 @@ Manabase:
 		Terramorphic Expanse
 		Evolving Wilds
 		Opulent Palace
+		Sultai Banner
 		Warped Landscape
 		Painted Bluffs
 		Bad River
@@ -40,20 +41,6 @@ Manabase:
 		Blue:  10
 		Green: 8
 		Any:   6
-
-	Discard:
-		Dark Depths
-		Cabal Coffers
-		Urborg, Tomb of Yawgmoth
-		Tainted Isle
-		Temple of Malady
-		Temple of Deceit
-		Temple of Mystery
-		Zhalfirin Void
-		Tainted Wood
-		Desert of the Mindful
-		Desert of the Glorified
-		Desert of the Indomitable
 
 	Maybe Pile:
 		Field of Ruin
