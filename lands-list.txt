@@ -1,0 +1,59 @@
+Manabase:
+	Keep:
+		Sunken Ruins
+		Darkslick Shores
+		Watery Grave
+		Command Beacon
+		Breeding Pool
+		Reflecting Pool
+		Overgrown Tomb
+		Twilight Mire
+		Woodland Cemetery
+		Botanical Sanctum
+		Flooded Grove
+		Hinterland Harbor
+		Blooming Marsh
+		Drowned Catacomb
+		Thespian's Stage
+		Arcane Lighthouse
+		Darkwater Catacombs
+		Ash Barrens
+		Alchemist's Refuge
+		Ghost Quarter
+		Sunken Hollow
+		Meteor Crater
+		Command Tower
+		Choked Estuary
+		Myriad Landscape
+		Leechridden Swamp
+		Terramorphic Expanse
+		Evolving Wilds
+		Opulent Palace
+		Warped Landscape
+		Painted Bluffs
+		Bad River
+		Strip Mine
+		Reliquary Tower
+
+	Mana Colors:
+		Black: 11
+		Blue:  10
+		Green: 8
+		Any:   6
+
+	Discard:
+		Dark Depths
+		Cabal Coffers
+		Urborg, Tomb of Yawgmoth
+		Tainted Isle
+		Temple of Malady
+		Temple of Deceit
+		Temple of Mystery
+		Zhalfirin Void
+		Tainted Wood
+		Desert of the Mindful
+		Desert of the Glorified
+		Desert of the Indomitable
+
+	Maybe Pile:
+		Field of Ruin
