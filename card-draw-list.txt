@@ -1,0 +1,31 @@
+Keep:
+	Mulldrifter
+	Hedron Archive
+	Kiora, the Crashing Wave
+	Commander's Sphere
+	Sultai Charm
+	Sultai Banner
+	Dimir Cluestone
+	Sensei's Divining Top
+	Mystic Remora
+	Skullclamp
+	Unbridled Growth
+
+Drop:
+	Consecrated Sphinx
+	Solemn Simulacrum
+	Thirst for Knowledge
+	Frantic Search
+	Braingeyser
+	Chart a Course
+	Serum Visions
+	Brainstorm
+	Gitaxian Probe
+	Careful Study
+
+Maybe:
+	Secrets of the Dead
+	Rhystic Study
+	Pull from Tomorrow
+	Mind Stone
+	Preordain
