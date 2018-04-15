@@ -1,27 +1,24 @@
 name,type_line,cmc,mana_cost,oracle_text,power,toughness,usd
-"Muldrotha, the Gravetide",Legendary Creature — Elemental Avatar,6.0,{3}{U}{B}{G},"During each of your turns, you may play up to one permanent card of each permanent type from your graveyard. (If a card has multiple permanent types, choose one as you play it.)",6,6,6.99
+"Muldrotha, the Gravetide",Legendary Creature — Elemental Avatar,6.0,{3}{U}{B}{G},"During each of your turns, you may play up to one permanent card of each permanent type from your graveyard. (If a card has multiple permanent types, choose one as you play it.)",6,6,7.84
 Alchemist's Refuge,Land,0.0,,"{T}: Add {C} to your mana pool.
-{G}{U}, {T}: You may cast spells this turn as though they had flash.",,,2.06
+{G}{U}, {T}: You may cast spells this turn as though they had flash.",,,2.12
 Arcane Lighthouse,Land,0.0,,"{T}: Add {C} to your mana pool.
 {1}, {T}: Until end of turn, creatures your opponents control lose hexproof and shroud and can't have hexproof or shroud.",,,2.79
 Archfiend of Depravity,Creature — Demon,5.0,{3}{B}{B},"Flying
-At the beginning of each opponent's end step, that player chooses up to two creatures he or she controls, then sacrifices the rest.",5,4,0.49
+At the beginning of each opponent's end step, that player chooses up to two creatures he or she controls, then sacrifices the rest.",5,4,0.94
 Ash Barrens,Land,0.0,,"{T}: Add {C} to your mana pool.
 Basic landcycling {1} ({1}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.)",,,2.09
-Bane of Progress,Creature — Elemental,6.0,{4}{G}{G},"When Bane of Progress enters the battlefield, destroy all artifacts and enchantments. Put a +1/+1 counter on Bane of Progress for each permanent destroyed this way.",2,2,2.57
+Bane of Progress,Creature — Elemental,6.0,{4}{G}{G},"When Bane of Progress enters the battlefield, destroy all artifacts and enchantments. Put a +1/+1 counter on Bane of Progress for each permanent destroyed this way.",2,2,2.58
 Banewhip Punisher,Creature — Human Warrior,3.0,{2}{B},"When Banewhip Punisher enters the battlefield, you may put a -1/-1 counter on target creature.
 {B}, Sacrifice Banewhip Punisher: Destroy target creature that has a -1/-1 counter on it.",2,2,0.11
 Birds of Paradise,Creature — Bird,1.0,{G},"Flying
-{T}: Add one mana of any color to your mana pool.",0,1,7.07
+{T}: Add one mana of any color to your mana pool.",0,1,7.04
 Breeding Pool,Land — Forest Island,0.0,,"({T}: Add {G} or {U} to your mana pool.)
 As Breeding Pool enters the battlefield, you may pay 2 life. If you don't, Breeding Pool enters the battlefield tapped.",,,15.10
-Catacomb Sifter,Creature — Eldrazi Drone,3.0,{1}{B}{G},"Devoid (This card has no color.)
-When Catacomb Sifter enters the battlefield, create a 1/1 colorless Eldrazi Scion creature token. It has ""Sacrifice this creature: Add {C} to your mana pool.""
-Whenever another creature you control dies, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)",2,3,0.09
 Caustic Caterpillar,Creature — Insect,1.0,{G},"{1}{G}, Sacrifice Caustic Caterpillar: Destroy target artifact or enchantment.",1,1,0.10
 Command Beacon,Land,0.0,,"{T}: Add {C} to your mana pool.
-{T}, Sacrifice Command Beacon: Put your commander into your hand from the command zone.",,,18.07
-Command Tower,Land,0.0,,{T}: Add to your mana pool one mana of any color in your commander's color identity.,,,1.13
+{T}, Sacrifice Command Beacon: Put your commander into your hand from the command zone.",,,17.52
+Command Tower,Land,0.0,,{T}: Add to your mana pool one mana of any color in your commander's color identity.,,,1.09
 Commander's Sphere,Artifact,3.0,{3},"{T}: Add to your mana pool one mana of any color in your commander's color identity.
 Sacrifice Commander's Sphere: Draw a card.",,,0.99
 Constant Mists,Instant,2.0,{1}{G},"Buyback—Sacrifice a land. (You may sacrifice a land in addition to any other costs as you cast this spell. If you do, put this card into your hand as it resolves.)
@@ -33,65 +30,60 @@ Other green creatures you control get +1/+1.
 At the beginning of your upkeep, you may create a 1/1 black and green Worm creature token.",2,2,2.99
 Cryptolith Rite,Enchantment,2.0,{1}{G},"Creatures you control have ""{T}: Add one mana of any color to your mana pool.""",,,2.99
 Cyclonic Rift,Instant,2.0,{1}{U},"Return target nonland permanent you don't control to its owner's hand.
-Overload {6}{U} (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of ""target"" with ""each."")",,,10.46
+Overload {6}{U} (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of ""target"" with ""each."")",,,10.33
 Choice of Damnations,Sorcery — Arcane,6.0,{5}{B},"Target opponent chooses a number. You may have that player lose that much life. If you don't, that player sacrifices all but that many permanents.",,,3.92
 Darkwater Catacombs,Land,0.0,,"{1}, {T}: Add {U}{B} to your mana pool.",,,1.99
 Deathrite Shaman,Creature — Elf Shaman,1.0,{B/G},"{T}: Exile target land card from a graveyard. Add one mana of any color to your mana pool.
 {B}, {T}: Exile target instant or sorcery card from a graveyard. Each opponent loses 2 life.
-{G}, {T}: Exile target creature card from a graveyard. You gain 2 life.",1,2,4.48
+{G}, {T}: Exile target creature card from a graveyard. You gain 2 life.",1,2,4.53
 Demonic Tutor,Sorcery,2.0,{1}{B},Search your library for a card and put that card into your hand. Then shuffle your library.,,,46.24
 Dimir Charm,Instant,2.0,{U}{B},"Choose one —
 • Counter target sorcery spell.
 • Destroy target creature with power 2 or less.
 • Look at the top three cards of target player's library. Put one back and the rest into that player's graveyard.",,,0.10
 Dimir Cluestone,Artifact,3.0,{3},"{T}: Add {U} or {B} to your mana pool.
-{U}{B}, {T}, Sacrifice Dimir Cluestone: Draw a card.",,,0.08
+{U}{B}, {T}, Sacrifice Dimir Cluestone: Draw a card.",,,0.09
 Dimir Doppelganger,Creature — Shapeshifter,3.0,{1}{U}{B},{1}{U}{B}: Exile target creature card from a graveyard. Dimir Doppelganger becomes a copy of that card and gains this ability.,0,2,0.75
-Dimir Signet,Artifact,2.0,{2},"{1}, {T}: Add {U}{B} to your mana pool.",,,1.62
+Dimir Signet,Artifact,2.0,{2},"{1}, {T}: Add {U}{B} to your mana pool.",,,1.64
 Drowned Catacomb,Land,0.0,,"Drowned Catacomb enters the battlefield tapped unless you control an Island or a Swamp.
-{T}: Add {U} or {B} to your mana pool.",,,4.05
-Elixir of Immortality,Artifact,1.0,{1},"{2}, {T}: You gain 5 life. Shuffle Elixir of Immortality and your graveyard into their owner's library.",,,0.39
+{T}: Add {U} or {B} to your mana pool.",,,4.21
 Evolving Wilds,Land,0.0,,"{T}, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.",,,0.11
 Flooded Grove,Land,0.0,,"{T}: Add {C} to your mana pool.
 {G/U}, {T}: Add {G}{G}, {G}{U}, or {U}{U} to your mana pool.",,,6.48
 Forest,Basic Land — Forest,0.0,,({T}: Add {G} to your mana pool.),,,0.25
 Freed from the Real,Enchantment — Aura,3.0,{2}{U},"Enchant creature
 {U}: Tap enchanted creature.
-{U}: Untap enchanted creature.",,,0.18
+{U}: Untap enchanted creature.",,,0.16
 Ghost Quarter,Land,0.0,,"{T}: Add {C} to your mana pool.
-{T}, Sacrifice Ghost Quarter: Destroy target land. Its controller may search his or her library for a basic land card, put it onto the battlefield, then shuffle his or her library.",,,1.94
+{T}, Sacrifice Ghost Quarter: Destroy target land. Its controller may search his or her library for a basic land card, put it onto the battlefield, then shuffle his or her library.",,,1.93
 Ghoulcaller Gisa,Legendary Creature — Human Wizard,5.0,{3}{B}{B},"{B}, {T}, Sacrifice another creature: Create X 2/2 black Zombie creature tokens, where X is the sacrificed creature's power.",3,4,13.99
 Gilded Lotus,Artifact,5.0,{5},{T}: Add three mana of any one color to your mana pool.,,,8.99
-Glimpse the Unthinkable,Sorcery,2.0,{U}{B},Target player puts the top ten cards of his or her library into his or her graveyard.,,,6.11
-Golgari Charm,Instant,2.0,{B}{G},"Choose one —
-• All creatures get -1/-1 until end of turn.
-• Destroy target enchantment.
-• Regenerate each creature you control.",,,0.25
+Glimpse the Unthinkable,Sorcery,2.0,{U}{B},Target player puts the top ten cards of his or her library into his or her graveyard.,,,6.03
 Golgari Signet,Artifact,2.0,{2},"{1}, {T}: Add {B}{G} to your mana pool.",,,0.23
 Grave Titan,Creature — Giant,6.0,{4}{B}{B},"Deathtouch
 Whenever Grave Titan enters the battlefield or attacks, create two 2/2 black Zombie creature tokens.",6,6,11.25
 "Grimgrin, Corpse-Born",Legendary Creature — Zombie Warrior,5.0,{3}{U}{B},"Grimgrin, Corpse-Born enters the battlefield tapped and doesn't untap during your untap step.
 Sacrifice another creature: Untap Grimgrin and put a +1/+1 counter on it.
-Whenever Grimgrin attacks, destroy target creature defending player controls, then put a +1/+1 counter on Grimgrin.",5,5,4.30
+Whenever Grimgrin attacks, destroy target creature defending player controls, then put a +1/+1 counter on Grimgrin.",5,5,4.26
 Harrow,Instant,3.0,{2}{G},"As an additional cost to cast Harrow, sacrifice a land.
 Search your library for up to two basic land cards and put them onto the battlefield. Then shuffle your library.",,,0.15
 Hedron Archive,Artifact,4.0,{4},"{T}: Add {C}{C} to your mana pool.
-{2}, {T}, Sacrifice Hedron Archive: Draw two cards.",,,0.57
+{2}, {T}, Sacrifice Hedron Archive: Draw two cards.",,,0.56
 Hinterland Harbor,Land,0.0,,"Hinterland Harbor enters the battlefield tapped unless you control a Forest or an Island.
 {T}: Add {G} or {U} to your mana pool.",,,5.99
 Hydra Omnivore,Creature — Hydra,6.0,{4}{G}{G},"Whenever Hydra Omnivore deals combat damage to an opponent, it deals that much damage to each other opponent.",8,8,3.65
 Island,Basic Land — Island,0.0,,({T}: Add {U} to your mana pool.),,,0.25
 "Jace, Vryn's Prodigy // Jace, Telepath Unbound",,2.0,,,,,19.16
-Jarad's Orders,Sorcery,4.0,{2}{B}{G},Search your library for up to two creature cards and reveal them. Put one into your hand and the other into your graveyard. Then shuffle your library.,,,0.42
+Jarad's Orders,Sorcery,4.0,{2}{B}{G},Search your library for up to two creature cards and reveal them. Put one into your hand and the other into your graveyard. Then shuffle your library.,,,0.39
 "Kiora, the Crashing Wave",Legendary Planeswalker — Kiora,4.0,{2}{G}{U},"+1: Until your next turn, prevent all damage that would be dealt to and dealt by target permanent an opponent controls.
 −1: Draw a card. You may play an additional land this turn.
-−5: You get an emblem with ""At the beginning of your end step, create a 9/9 blue Kraken creature token.""",,,2.30
+−5: You get an emblem with ""At the beginning of your end step, create a 9/9 blue Kraken creature token.""",,,2.35
 Korozda Guildmage,Creature — Elf Shaman,2.0,{B}{G},"{1}{B}{G}: Target creature gets +1/+1 and gains intimidate until end of turn. (It can't be blocked except by artifact creatures and/or creatures that share a color with it.)
 {2}{B}{G}, Sacrifice a nontoken creature: Create X 1/1 green Saproling creature tokens, where X is the sacrificed creature's toughness.",2,2,0.08
 "Lazav, Dimir Mastermind",Legendary Creature — Shapeshifter,4.0,{U}{U}{B}{B},"Hexproof
 Whenever a creature card is put into an opponent's graveyard from anywhere, you may have Lazav, Dimir Mastermind become a copy of that card, except its name is still Lazav, Dimir Mastermind, it's legendary in addition to its other types, and it gains hexproof and this ability.",3,3,2.49
 Lightning Greaves,Artifact — Equipment,2.0,{2},"Equipped creature has haste and shroud. (It can't be the target of spells or abilities.)
-Equip {0}",,,3.28
+Equip {0}",,,3.30
 Lorescale Coatl,Creature — Snake,3.0,{1}{G}{U},"Whenever you draw a card, you may put a +1/+1 counter on Lorescale Coatl.",2,2,0.09
 Lotus Petal,Artifact,0.0,{0},"{T}, Sacrifice Lotus Petal: Add one mana of any color to your mana pool.",,,
 "Mazirek, Kraul Death Priest",Legendary Creature — Insect Shaman,5.0,{3}{B}{G},"Flying
@@ -99,28 +91,28 @@ Whenever a player sacrifices another permanent, put a +1/+1 counter on each crea
 Meren of Clan Nel Toth,Legendary Creature — Human Shaman,4.0,{2}{B}{G},"Whenever another creature you control dies, you get an experience counter.
 At the beginning of your end step, choose target creature card in your graveyard. If that card's converted mana cost is less than or equal to the number of experience counters you have, return it to the battlefield. Otherwise, put it into your hand.",3,4,8.51
 Mind Stone,Artifact,2.0,{2},"{T}: Add {C} to your mana pool.
-{1}, {T}, Sacrifice Mind Stone: Draw a card.",,,0.33
+{1}, {T}, Sacrifice Mind Stone: Draw a card.",,,0.39
 Mulldrifter,Creature — Elemental,5.0,{4}{U},"Flying
 When Mulldrifter enters the battlefield, draw two cards.
 Evoke {2}{U} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)",2,2,1.77
 Myriad Landscape,Land,0.0,,"Myriad Landscape enters the battlefield tapped.
 {T}: Add {C} to your mana pool.
-{2}, {T}, Sacrifice Myriad Landscape: Search your library for up to two basic land cards that share a land type, put them onto the battlefield tapped, then shuffle your library.",,,0.65
+{2}, {T}, Sacrifice Myriad Landscape: Search your library for up to two basic land cards that share a land type, put them onto the battlefield tapped, then shuffle your library.",,,0.67
 "Ob Nixilis, Unshackled",Legendary Creature — Demon,6.0,{4}{B}{B},"Flying, trample
 Whenever an opponent searches his or her library, that player sacrifices a creature and loses 10 life.
 Whenever another creature dies, put a +1/+1 counter on Ob Nixilis, Unshackled.",4,4,2.49
 Oblivion Stone,Artifact,3.0,{3},"{4}, {T}: Put a fate counter on target permanent.
-{5}, {T}, Sacrifice Oblivion Stone: Destroy each nonland permanent without a fate counter on it, then remove all fate counters from all permanents.",,,6.15
+{5}, {T}, Sacrifice Oblivion Stone: Destroy each nonland permanent without a fate counter on it, then remove all fate counters from all permanents.",,,6.11
 Opulent Palace,Land,0.0,,"Opulent Palace enters the battlefield tapped.
-{T}: Add {B}, {G}, or {U} to your mana pool.",,,0.19
+{T}: Add {B}, {G}, or {U} to your mana pool.",,,0.20
 Overgrown Tomb,Land — Swamp Forest,0.0,,"({T}: Add {B} or {G} to your mana pool.)
-As Overgrown Tomb enters the battlefield, you may pay 2 life. If you don't, Overgrown Tomb enters the battlefield tapped.",,,9.96
+As Overgrown Tomb enters the battlefield, you may pay 2 life. If you don't, Overgrown Tomb enters the battlefield tapped.",,,10.25
 Painted Bluffs,Land — Desert,0.0,,"{T}: Add {C} to your mana pool.
 {1}, {T}: Add one mana of any color to your mana pool.",,,0.04
 Pernicious Deed,Enchantment,3.0,{1}{B}{G},"{X}, Sacrifice Pernicious Deed: Destroy each artifact, creature, and enchantment with converted mana cost X or less.",,,1.47
 "Phenax, God of Deception",Legendary Enchantment Creature — God,5.0,{3}{U}{B},"Indestructible
 As long as your devotion to blue and black is less than seven, Phenax isn't a creature.
-Creatures you control have ""{T}: Target player puts the top X cards of his or her library into his or her graveyard, where X is this creature's toughness.""",4,7,6.20
+Creatures you control have ""{T}: Target player puts the top X cards of his or her library into his or her graveyard, where X is this creature's toughness.""",4,7,6.25
 Preordain,Sorcery,1.0,{U},"Scry 2, then draw a card. (To scry 2, look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)",,,5.27
 Profane Command,Sorcery,2.0,{X}{B}{B},"Choose two —
 • Target player loses X life. 
@@ -128,26 +120,25 @@ Profane Command,Sorcery,2.0,{X}{B}{B},"Choose two —
 • Target creature gets -X/-X until end of turn.
 • Up to X target creatures gain fear until end of turn. (They can't be blocked except by artifact creatures and/or black creatures.)",,,0.36
 Propaganda,Enchantment,3.0,{2}{U},Creatures can't attack you unless their controller pays {2} for each creature he or she controls that's attacking you.,,,4.99
-Putrefy,Instant,3.0,{1}{B}{G},Destroy target artifact or creature. It can't be regenerated.,,,0.22
-Reflecting Pool,Land,0.0,,{T}: Add to your mana pool one mana of any type that a land you control could produce.,,,10.80
+Reflecting Pool,Land,0.0,,{T}: Add to your mana pool one mana of any type that a land you control could produce.,,,10.79
 Rhystic Study,Enchantment,3.0,{2}{U},"Whenever an opponent casts a spell, you may draw a card unless that player pays {1}.",,,
-Seal of Primordium,Enchantment,2.0,{1}{G},Sacrifice Seal of Primordium: Destroy target artifact or enchantment.,,,0.10
+Seal of Primordium,Enchantment,2.0,{1}{G},Sacrifice Seal of Primordium: Destroy target artifact or enchantment.,,,0.09
 Secrets of the Dead,Enchantment,3.0,{2}{U},"Whenever you cast a spell from your graveyard, draw a card.",,,0.11
 Seedborn Muse,Creature — Spirit,5.0,{3}{G}{G},Untap all permanents you control during each other player's untap step.,2,4,26.60
 Sensei's Divining Top,Artifact,1.0,{1},"{1}: Look at the top three cards of your library, then put them back in any order.
-{T}: Draw a card, then put Sensei's Divining Top on top of its owner's library.",,,15.39
+{T}: Draw a card, then put Sensei's Divining Top on top of its owner's library.",,,15.88
 "Sheoldred, Whispering One",Legendary Creature — Praetor,7.0,{5}{B}{B},"Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)
 At the beginning of your upkeep, return target creature card from your graveyard to the battlefield.
-At the beginning of each opponent's upkeep, that player sacrifices a creature.",6,6,10.76
+At the beginning of each opponent's upkeep, that player sacrifices a creature.",6,6,10.73
 Shriekmaw,Creature — Elemental,5.0,{4}{B},"Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)
 When Shriekmaw enters the battlefield, destroy target nonartifact, nonblack creature.
 Evoke {1}{B} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)",3,2,1.11
-Simic Signet,Artifact,2.0,{2},"{1}, {T}: Add {G}{U} to your mana pool.",,,0.25
+Simic Signet,Artifact,2.0,{2},"{1}, {T}: Add {G}{U} to your mana pool.",,,0.33
 Siren Stormtamer,Creature — Siren Pirate Wizard,1.0,{U},"Flying
-{U}, Sacrifice Siren Stormtamer: Counter target spell or ability that targets you or a creature you control.",1,1,0.44
+{U}, Sacrifice Siren Stormtamer: Counter target spell or ability that targets you or a creature you control.",1,1,0.45
 Skullclamp,Artifact — Equipment,1.0,{1},"Equipped creature gets +1/-1.
 Whenever equipped creature dies, draw two cards.
-Equip {1}",,,1.41
+Equip {1}",,,1.39
 Solemn Offering,Sorcery,3.0,{2}{W},Destroy target artifact or enchantment. You gain 4 life.,,,0.05
 Strip Mine,Land,0.0,,"{T}: Add {C} to your mana pool.
 {T}, Sacrifice Strip Mine: Destroy target land.",,,
@@ -159,35 +150,45 @@ Sultai Charm,Instant,3.0,{B}{G}{U},"Choose one —
 • Destroy target artifact or enchantment.
 • Draw two cards, then discard a card.",,,0.08
 Sunken Hollow,Land — Island Swamp,0.0,,"({T}: Add {U} or {B} to your mana pool.)
-Sunken Hollow enters the battlefield tapped unless you control two or more basic lands.",,,1.96
+Sunken Hollow enters the battlefield tapped unless you control two or more basic lands.",,,2.00
 Sunken Ruins,Land,0.0,,"{T}: Add {C} to your mana pool.
-{U/B}, {T}: Add {U}{U}, {U}{B}, or {B}{B} to your mana pool.",,,21.36
+{U/B}, {T}: Add {U}{U}, {U}{B}, or {B}{B} to your mana pool.",,,21.21
 Leechridden Swamp,Land — Swamp,0.0,,"({T}: Add {B} to your mana pool.)
 Leechridden Swamp enters the battlefield tapped.
 {B}, {T}: Each opponent loses 1 life. Activate this ability only if you control two or more black permanents.",,,0.22
 Swiftfoot Boots,Artifact — Equipment,2.0,{2},"Equipped creature has hexproof and haste.
-Equip {1}",,,0.49
+Equip {1}",,,0.50
 Terramorphic Expanse,Land,0.0,,"{T}, Sacrifice Terramorphic Expanse: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.",,,0.18
 "Titania, Protector of Argoth",Legendary Creature — Elemental,5.0,{3}{G}{G},"When Titania, Protector of Argoth enters the battlefield, return target land card from your graveyard to the battlefield.
-Whenever a land you control is put into a graveyard from the battlefield, create a 5/3 green Elemental creature token.",5,3,3.98
+Whenever a land you control is put into a graveyard from the battlefield, create a 5/3 green Elemental creature token.",5,3,3.99
 "Torgaar, Famine Incarnate",Legendary Creature — Avatar,8.0,{6}{B}{B},"As an additional cost to cast this spell, you may sacrifice any number of creatures. This spell costs {2} less to cast for each creature sacrificed this way.
-When Torgaar, Famine Incarnate enters the battlefield, up to one target player's life total becomes half their starting life total, rounded down.",7,6,2.67
+When Torgaar, Famine Incarnate enters the battlefield, up to one target player's life total becomes half their starting life total, rounded down.",7,6,2.52
 Toxic Deluge,Sorcery,3.0,{2}{B},"As an additional cost to cast Toxic Deluge, pay X life.
-All creatures get -X/-X until end of turn.",,,12.25
+All creatures get -X/-X until end of turn.",,,11.84
 Twilight Mire,Land,0.0,,"{T}: Add {C} to your mana pool.
 {B/G}, {T}: Add {B}{B}, {B}{G}, or {G}{G} to your mana pool.",,,8.99
 Unbridled Growth,Enchantment — Aura,1.0,{G},"Enchant land
 Enchanted land has ""{T}: Add one mana of any color to your mana pool.""
 Sacrifice Unbridled Growth: Draw a card.",,,0.05
-Vampiric Tutor,Instant,1.0,{B},"Search your library for a card, then shuffle your library and put that card on top of it. You lose 2 life.",,,43.92
+Vampiric Tutor,Instant,1.0,{B},"Search your library for a card, then shuffle your library and put that card on top of it. You lose 2 life.",,,44.38
 Vedalken Orrery,Artifact,4.0,{4},You may cast spells as though they had flash.,,,19.41
-Viscera Seer,Creature — Vampire Wizard,1.0,{B},Sacrifice a creature: Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.),1,1,1.54
 Warped Landscape,Land,0.0,,"{T}: Add {C} to your mana pool.
 {2}, {T}, Sacrifice Warped Landscape: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.",,,0.08
 Watery Grave,Land — Island Swamp,0.0,,"({T}: Add {U} or {B} to your mana pool.)
-As Watery Grave enters the battlefield, you may pay 2 life. If you don't, Watery Grave enters the battlefield tapped.",,,16.33
+As Watery Grave enters the battlefield, you may pay 2 life. If you don't, Watery Grave enters the battlefield tapped.",,,16.46
 Woodland Cemetery,Land,0.0,,"Woodland Cemetery enters the battlefield tapped unless you control a Swamp or a Forest.
-{T}: Add {B} or {G} to your mana pool.",,,6.87
+{T}: Add {B} or {G} to your mana pool.",,,6.81
 "Yahenni, Undying Partisan",Legendary Creature — Aetherborn Vampire,3.0,{2}{B},"Haste
 Whenever a creature an opponent controls dies, put a +1/+1 counter on Yahenni, Undying Partisan.
 Sacrifice another creature: Yahenni gains indestructible until end of turn.",2,2,2.49
+Catacomb Sifter,Creature — Eldrazi Drone,3.0,{1}{B}{G},"Devoid (This card has no color.)
+When Catacomb Sifter enters the battlefield, create a 1/1 colorless Eldrazi Scion creature token. It has ""Sacrifice this creature: Add {C} to your mana pool.""
+Whenever another creature you control dies, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)",2,3,0.09
+Elixir of Immortality,Artifact,1.0,{1},"{2}, {T}: You gain 5 life. Shuffle Elixir of Immortality and your graveyard into their owner's library.",,,0.39
+Golgari Charm,Instant,2.0,{B}{G},"Choose one —
+• All creatures get -1/-1 until end of turn.
+• Destroy target enchantment.
+• Regenerate each creature you control.",,,0.25
+Putrefy,Instant,3.0,{1}{B}{G},Destroy target artifact or creature. It can't be regenerated.,,,0.22
+Viscera Seer,Creature — Vampire Wizard,1.0,{B},Sacrifice a creature: Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.),1,1,1.54
+Lord of Extinction,Creature — Elemental,5.0,{3}{B}{G},Lord of Extinction's power and toughness are each equal to the number of cards in all graveyards.,*,*,13.87
